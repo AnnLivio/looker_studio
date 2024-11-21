@@ -4,3 +4,5 @@ La actividad física es fundamental para nuestra profesión, despeja la mente, h
 
 ## Extracción de datos y exploración
 Runkeeper permite descargar los datos en formato `csv`
+
+### *Under construction*
